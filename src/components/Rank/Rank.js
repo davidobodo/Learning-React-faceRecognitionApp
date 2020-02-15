@@ -4,12 +4,12 @@ const Rank = () => {
 	return (
 		<div>
 			<div className='white f3'>
-				{'David your current rank is'}
+				'David your current rank is'
 			</div>
 			<div className='white f1'>
-				{'#5'}
+				'#5'
 			</div>
-			
+
 		</div>
 
 	);
